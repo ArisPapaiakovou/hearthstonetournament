@@ -95,7 +95,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#tabletest{
+	width: 10px;
+	height: 10px;
+	margin:0 auto;
+  	text-align: center;
+}
 
+#tourneysBody{
+	background: #CCCCCC;
+}
 
 
 
